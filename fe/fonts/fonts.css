@@ -1,0 +1,20 @@
+@font-face {
+     font-family: "Platform";
+     src: url('900634766-Platform-Regular.eot');
+     src: url('900634766-Platform-Regular.eot?#iefix') format('embedded-opentype'),
+     url('900634766-Platform-Regular.svg#Platform Regular') format('svg'),
+     url('900634766-Platform-Regular.woff') format('woff'),
+     url('900634766-Platform-Regular.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+}
+@font-face {
+    font-family: "Platform";
+    src: url('358306885-Platform-Medium.eot');
+    src: url('358306885-Platform-Medium.eot?#iefix') format('embedded-opentype'),
+    url('358306885-Platform-Medium.svg#Platform Medium') format('svg'),
+    url('358306885-Platform-Medium.woff') format('woff'),
+    url('358306885-Platform-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
